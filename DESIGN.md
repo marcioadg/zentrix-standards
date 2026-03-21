@@ -2,7 +2,7 @@
 **Version:** 1.0
 **Date:** March 20, 2026
 **Source:** Linear Design System (Figma Community) + Zentrix OS codebase
-**Applies to:** All Zentrix ecosystem products (business-os, zentrix-insights, zentrixcrm, zentrixmail, dietforge, wisevasdashboard)
+**Applies to:** All Zentrix ecosystem products (business-os, zentrix-insights, zentrixcrm, zentrixmail)
 
 > Every UI decision in the Zentrix ecosystem starts here. When in doubt — check this file first.
 
