@@ -13,7 +13,6 @@ All Zentrix repos:
 - `zentrix-insights`
 - `zentrixcrm`
 - `zentrixmail`
-- `wisevasdashboard`
 
 ## Rules
 
