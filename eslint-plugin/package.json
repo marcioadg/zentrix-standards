@@ -1,0 +1,7 @@
+{
+  "name": "@zentrix/eslint-plugin-design-system",
+  "version": "1.0.0",
+  "description": "ESLint rules to enforce Zentrix Design System compliance",
+  "main": "index.js",
+  "license": "MIT"
+}
