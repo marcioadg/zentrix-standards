@@ -421,7 +421,7 @@ src/
 - **Use tokens, never raw hex.** Always reference a token (e.g. `var(--accent)`) — never hardcode a color.
 - **Inter for everything.** No other font unless explicitly approved.
 - **Lucide only.** Do not introduce other icon libraries.
-- **Dark theme is the default.** Light theme is a supported variant — always build dark first.
+- **Theme follows the user's system preference.** Both light and dark are fully supported — do not hardcode a default theme.
 - **13px is the base body size.** Don't go smaller than 11px except for `Tiny` timestamps.
 - **Radius is small.** This is a dense, professional tool — not a consumer app. Keep corners tight.
 - **Transitions are fast.** 150ms is standard. Never go above 300ms.
